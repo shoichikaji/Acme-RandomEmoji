@@ -32,5 +32,5 @@ Copyright 2016 Shoichi Kaji &lt;skaji@cpan.org>
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
-Note that this library embed emoji-data.txt, emoji-sequences.txt and emoji-zwj-sequences.txt,
+Note that this library uses emoji-data.txt, emoji-sequences.txt and emoji-zwj-sequences.txt,
 which have their own license. Please refer to [http://www.unicode.org/copyright.html](http://www.unicode.org/copyright.html)
