@@ -6,7 +6,7 @@ use utf8;
 
 use Exporter 'import';
 our @EXPORT_OK = qw(random_emoji);
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our $EMOJI = [
   "#\x{FE0F}",
