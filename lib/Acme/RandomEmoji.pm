@@ -2601,7 +2601,7 @@ Acme::RandomEmoji - pick an emoji randomly
 =head1 SYNOPSIS
 
 =for html
-<a href="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png"><img src="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png" alt="screenshot"></a>
+<a href="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png"><img src="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png" alt="screenshot" style="max-width:100%;"></a>
 
 =head1 DESCRIPTION
 

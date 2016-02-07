@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/shoichikaji/Acme-RandomEmoji.svg?branch=master)](https://travis-ci.org/shoichikaji/Acme-RandomEmoji)
+[![Build Status](https://travis-ci.org/skaji/Acme-RandomEmoji.svg?branch=master)](https://travis-ci.org/skaji/Acme-RandomEmoji)
 
 # NAME
 
@@ -8,7 +8,7 @@ Acme::RandomEmoji - pick an emoji randomly
 
 <div>
 
-    <a href="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png"><img src="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png" alt="screenshot"></a>
+    <a href="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png"><img src="https://raw.githubusercontent.com/shoichikaji/Acme-RandomEmoji/master/author/screenshot.png" alt="screenshot" style="max-width:100%;"></a>
 </div>
 
 # DESCRIPTION
